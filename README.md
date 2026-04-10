@@ -1,10 +1,10 @@
-# Hired---job-tracker-app
-Hired — Job Search Optimizer (Pro)
+
+Hired — Job Search Optimizer
 ===================================
 
 Getting Started
 ---------------
-1. Extract the ZIP file to any folder on your computer.
+1. Download file to any folder on your computer.
 2. Open index.html in your browser (Chrome, Firefox, Safari, or Edge).
 3. Start using the app — no internet connection required.
 
